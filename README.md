@@ -1,7 +1,9 @@
 # BABYPICS
 
 #### Creation du Workflow
-Définir le workflow du projet
+Définir le workflow du projet :
+- Solution 1 / Home plus 1 entrée par page (about me, tarifs, blog, contact) et 2 entrées principales (Studio, Gallery).
+- Solution 2 / Home avec 2 entrées Studio & Gallery, et ensuite Blog, about me, contact.
 
 #### Definition du projet
 Site gallery pour photographe professionnel.
