@@ -1,5 +1,7 @@
 # BABYPICS
 
+16 decembre 2021
+
 #### Creation du Workflow
 Définir le workflow du projet :
 - Solution 1 / Home plus 1 entrée par page (about me, tarifs, blog, contact) et 2 entrées principales (Studio, Gallery).
@@ -37,6 +39,15 @@ Réfléchir avant d'agir. D'abord le concept d'architecture des éléments.
 Choix des photos, coloris et polices de caractères.<br>
 Pourquoi maintenant... parce que l'ambiance va définir le style de présentation<br>
 et donc la composition des wireframes.
+
+Style de la cliente : gai, dynamique, moderne. Pas du style gnan-gnan.
+
+Nom de la cliente : anglaise, car nom du site Baby Pics donc... Jane Doe.
+
+Style du site : coloré mais pas trop, chic, stylé, moderne.<br>
+Eviter le style Wordpress.
+
+--- 17 decembre 2021 ---
 
 #### Wireframes : desktop, ipad, iphone
 A creer
