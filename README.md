@@ -21,6 +21,17 @@ Client : photographe pro donc le site doit être sa carte de visite :
 - portfolio
 - voire avis clients.
 
+
+#### Croquis : sketch method
+Dessiner les idées de composition gallery, navbar... avant les wireframes.<br>
+Voir photo : img_9910_study.jpg / 16 dec 2021<br>
+
+Chercher la composition de la barre de navigation.<br>
+Page principale : déroulante avec "about me", "contact" ?<br>
+Page présentation type portail ?
+
+Réfléchir avant d'agir. D'abord le concept d'architecture des éléments.
+
 #### Wireframes : desktop, ipad, iphone
 A creer
 
