@@ -1,1 +1,4 @@
-# BABYPICS.github.io
+# BABYPICS
+
+##### Creation du Workflow
+Définir le workflow du projet
