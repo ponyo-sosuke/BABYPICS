@@ -1,9 +1,9 @@
 # BABYPICS
 
-##### Creation du Workflow
+#### Creation du Workflow
 Définir le workflow du projet
 
-##### Definition du projet
+#### Definition du projet
 Site gallery pour photographe professionnel.
 
 Sujet : photos de bébés, de la naissance au premier âge et des familles pendant la période de grossesse.
@@ -19,5 +19,8 @@ Client : photographe pro donc le site doit être sa carte de visite :
 - portfolio
 - voire avis clients.
 
-##### Wireframes : desktop, ipad, iphone
+#### Wireframes : desktop, ipad, iphone
 A creer
+
+#### Poser les bases HTML, CSS
+A prevoir avec HTML5 Boilerplate, reset, CSS grid.
