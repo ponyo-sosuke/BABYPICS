@@ -32,6 +32,12 @@ Page présentation type portail ?
 
 Réfléchir avant d'agir. D'abord le concept d'architecture des éléments.
 
+
+#### Ambiance : moodboard
+Choix des photos, coloris et polices de caractères.<br>
+Pourquoi maintenant... parce que l'ambiance va définir le style de présentation<br>
+et donc la composition des wireframes.
+
 #### Wireframes : desktop, ipad, iphone
 A creer
 
