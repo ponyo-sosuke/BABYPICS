@@ -40,9 +40,9 @@ Choix des photos, coloris et polices de caractères.<br>
 Pourquoi maintenant... parce que l'ambiance va définir le style de présentation<br>
 et donc la composition des wireframes.
 
-Style de la cliente : gai, dynamique, moderne. Pas du style gnan-gnan.
+Style de la cliente : gaie, dynamique, moderne. Pas du style gnan-gnan.
 
-Nom de la cliente : anglaise, car nom du site Baby Pics donc... Jane Doe.
+Nom de la cliente : anglaise, car nom du site Baby Pics donc... Penelope Doe.
 
 Style du site : coloré mais pas trop, chic, stylé, moderne.<br>
 Eviter le style Wordpress.
