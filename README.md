@@ -34,6 +34,17 @@ Page présentation type portail ?
 
 Réfléchir avant d'agir. D'abord le concept d'architecture des éléments.
 
+#### Cliente
+Nom de la cliente : anglaise, car nom du site Baby Pics donc... Penelope Doe.
+
+Style de la cliente : gaie, dynamique, moderne. Pas du style gnan-gnan.
+
+Experience : A débuté en autodidacte, travaille depuis plus de 10 ans.
+
+Credo : la sécurité du bébé avant tout !
+
+Exigences : n'a pas de logo ni charte graphique, mais veut un site "pro"<br>
+pas de boutique ou de zone de tarification transactionnelle en ligne.
 
 #### Ambiance : moodboard
 Choix des photos, coloris et polices de caractères.<br>
