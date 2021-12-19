@@ -57,7 +57,10 @@ Eviter le style Wordpress.
 --- 17 decembre 2021 ---
 
 #### Wireframes : desktop, ipad, iphone
-A creer
+19 decembre : finalisation de la wireframe desktop<br>
+prévoir la wireframe mobile<br>
+prévoir le wireframe ipad
 
 #### Poser les bases HTML, CSS
-A prevoir avec HTML5 Boilerplate, reset, CSS grid.
+Doc généré avec HTML5 Boilerplate, reset, CSS grid.<br>
+Début de la page index.html avec css grid.
